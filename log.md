@@ -1,10 +1,9 @@
-# 100 Days Of Code - Log
-
+#100 Days of Blockchain Log
 ### Day 0: Jan 20, 2019
 ##### (Short description)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Watch videos about blockchain on Coursera.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Link](http://www.example.com)
+**Link to work:** [Blockchain Course](https://www.coursera.org/learn/crypto)
