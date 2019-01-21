@@ -1,10 +1,8 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+### Day XXX: Feb 30, 2016
+##### (Short description)
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-## Log
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+**Link to work:** [Link](http://www.example.com)
